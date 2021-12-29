@@ -5,3 +5,6 @@
 	path = lahinroondev/public
 	url = https://github.com/lahinroon/lahinroon.github.io.git
 	branch = main
+[submodule "lahinroondev/themes/anubis"]
+	path = lahinroondev/themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
